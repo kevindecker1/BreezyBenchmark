@@ -19,7 +19,7 @@ Note: BreezyBenchmarkRunner.Instance.Run needs to be called at the end to execut
 
 ![bbinstance1](https://user-images.githubusercontent.com/10837928/147971717-8c6fc2ce-fde4-4046-ae40-43c0f9597396.PNG)
 
-Here is what the summary would look like as the generated txt file for the above Instance tests.
+Here is what the summary would look like as the generated txt file for the above Instance tests. Both methods were fast, but the StringBuilder was slightly quicker. However, it used a little more memory.
 
 ![bbsummary1](https://user-images.githubusercontent.com/10837928/147971824-49699982-1cea-4fb0-ac6f-5f2d655a6417.PNG)
 
