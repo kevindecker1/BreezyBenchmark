@@ -25,7 +25,7 @@ Here is what the summary would look like as the generated txt file for the above
 
 ![bbsummary1](https://user-images.githubusercontent.com/10837928/147971824-49699982-1cea-4fb0-ac6f-5f2d655a6417.PNG)
 
-4. Finally, you can run BreezyBenchmark on a class. The BreezyBenchmark attribute needs to be added to each method you wish to test, but this can be changed by setting the onlyRunTaggedMethods parameter in the constructor to false. This will test every method regardless.
+4. Finally, you can run BreezyBenchmark on a class. The BreezyBenchmark attribute needs to be added to each method you wish to test, but this can be changed by setting the onlyRunTaggedMethods parameter in the method definition to false. This will test every method regardless.
 
 ![bbclass](https://user-images.githubusercontent.com/10837928/147970816-6eb0e504-01cc-49e6-a93f-614515cab80b.PNG)
 
