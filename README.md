@@ -15,7 +15,7 @@ There are 4 ways that you can utilize BreezyBenchmark to test your code.
 ![bburl](https://user-images.githubusercontent.com/10837928/147970168-235d44ac-8893-49f2-960a-09a29bde06cd.PNG)
 
 3. Add tests to an Instance. When added to an Instance, all tests are printed in the summary. This can be useful for code comparisons (Different code implementations for the same outcome). 
-Note: BreezyBenchmarkRunner.Instance.Run needs to be called to execute the tests.
+Note: BreezyBenchmarkRunner.Instance.Run needs to be called at the end to execute the tests.
 
 ![bbinstance](https://user-images.githubusercontent.com/10837928/147970353-7ee45d2c-3922-4f66-a2ce-cdd24580e123.PNG)
 
