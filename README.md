@@ -19,6 +19,9 @@ Note: BreezyBenchmarkRunner.Instance.Run needs to be called to execute the tests
 
 ![bbinstance](https://user-images.githubusercontent.com/10837928/147970353-7ee45d2c-3922-4f66-a2ce-cdd24580e123.PNG)
 
+Here is what the summary would look like as the generated txt file for the above Instance tests.
+![bbsummary](https://user-images.githubusercontent.com/10837928/147971349-e42535e0-836d-47d3-8f87-6ebfe0f6a18a.PNG)
+
 4. Finally, you can run BreezyBenchmark on a class. The BreezyBenchmark attribute needs to be added to each method you wish to test, but this can be changed by setting the onlyRunTaggedMethods parameter in the constructor to false. This will test every method regardless.
 
 ![bbclass](https://user-images.githubusercontent.com/10837928/147970816-6eb0e504-01cc-49e6-a93f-614515cab80b.PNG)
