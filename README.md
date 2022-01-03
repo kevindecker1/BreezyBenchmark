@@ -4,6 +4,8 @@ BreezyBenchmark is a lightweight .Net package for easy performance testing on yo
 
 By default, the test summary will be printed to the Output console. There is an optional argument for writing the summary to a txt file. If set to true, it will launch automatically when the test(s) are complete.
 
+Also by default, the tests are run on their own thread, so that we can attempt to get the most accurate results on just the code we want to test, and not worry about any main application threads that these tests will be run from.
+
 There are 4 ways that you can utilize BreezyBenchmark to test your code.
 
 1. Run a specific block of code 
