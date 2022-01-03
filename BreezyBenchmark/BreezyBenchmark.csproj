@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Kevin Decker</Authors>
+    <PackageId>BreezyBenchmark</PackageId>
+    <Description>A lightweight package for easy performance testing on your code</Description>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>

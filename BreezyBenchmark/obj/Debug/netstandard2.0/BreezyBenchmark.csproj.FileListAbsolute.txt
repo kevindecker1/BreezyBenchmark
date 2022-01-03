@@ -1,0 +1,9 @@
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark\bin\Debug\netstandard2.0\BreezyBenchmark.deps.json
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark\bin\Debug\netstandard2.0\BreezyBenchmark.dll
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark\bin\Debug\netstandard2.0\BreezyBenchmark.pdb
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark\obj\Debug\netstandard2.0\BreezyBenchmark.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark\obj\Debug\netstandard2.0\BreezyBenchmark.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark\obj\Debug\netstandard2.0\BreezyBenchmark.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark\obj\Debug\netstandard2.0\BreezyBenchmark.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark\obj\Debug\netstandard2.0\BreezyBenchmark.dll
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark\obj\Debug\netstandard2.0\BreezyBenchmark.pdb

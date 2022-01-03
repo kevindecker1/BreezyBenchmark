@@ -1,0 +1,10 @@
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark.Tests\bin\Debug\BreezyBenchmark.Tests.exe.config
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark.Tests\bin\Debug\BreezyBenchmark.Tests.exe
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark.Tests\bin\Debug\BreezyBenchmark.Tests.pdb
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark.Tests\bin\Debug\BreezyBenchmark.dll
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark.Tests\bin\Debug\BreezyBenchmark.pdb
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark.Tests\obj\Debug\BreezyBenchmark.Tests.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark.Tests\obj\Debug\BreezyBenchmark.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark.Tests\obj\Debug\BreezyBenchmark.Tests.csproj.CopyComplete
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark.Tests\obj\Debug\BreezyBenchmark.Tests.exe
+C:\Users\Kevin\source\repos\BreezyBenchmark\BreezyBenchmark.Tests\obj\Debug\BreezyBenchmark.Tests.pdb
