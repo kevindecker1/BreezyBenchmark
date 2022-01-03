@@ -31,6 +31,10 @@ Here is what the summary would look like as the generated txt file for the above
 
 ![bbclass1](https://user-images.githubusercontent.com/10837928/147970824-728f2d11-65ff-428a-a4a4-602f8a5cbfeb.PNG)
 
+Here is what the summary would look like in the output console for the above class tests.
+
+![bbsummaryconsole](https://user-images.githubusercontent.com/10837928/147972431-8d712c14-fb7a-41b5-9266-2bc3129b4e25.PNG)
+
 When testing methods, you also have the option of specifying the param values for the test. Make sure the params are in the same order as they appear in the method
 
 ![bbparam](https://user-images.githubusercontent.com/10837928/147970997-436a81be-044d-40d6-b979-0d3104a7bf68.PNG)
